@@ -1,0 +1,621 @@
+Date,Area,Department,Customer ID,Product,Agreement No,Process,Advance
+43831,North East,Personal Finance,C0078709,Leasing,A63695038,Quality Control,79819
+44025,North East,Corporate Finance,C0085972,Hire Purchase,A30915749,Documentation,1830
+44187,North East,Personal Finance,C0051526,Hire Purchase,A88288569,Underwriting,29760
+43846,Scotland,Commercial Finance,C0093157,Leasing,A67277039,Quality Control,66980
+43945,Scotland,Corporate Finance,C0072514,Contract Hire,A75932081,Collections,45115
+44087,South East,Corporate Finance,C0064974,Hire Purchase,A37796429,Underwriting,13054
+44184,South West,Commercial Finance,C0056816,Hire Purchase,A49247790,Quality Control,11902
+43957,Midlands,Personal Finance,C0043853,Hire Purchase,A70168547,KYC,14448
+43900,North,Commercial Finance,C0081630,Commercial Loan,A86809686,Underwriting,65929
+43857,North East,Corporate Finance,C0091056,Hire Purchase,A79431237,Payments,28546
+44002,North West,Corporate Finance,C0088353,Corporate Loan,A70306877,Underwriting,10940
+43935,South East,Corporate Finance,C0094954,Leasing,A60418646,Payments,17999
+44058,Scotland,Commercial Finance,C0060514,Leasing,A56145639,KYC,12776
+43932,Wales,Corporate Finance,C0037846,Hire Purchase,A38102873,Collections,53586
+44081,North East,Corporate Finance,C0080317,Contract Hire,A64074973,Validation,56499
+43834,North East,Commercial Finance,C0085120,Hire Purchase,A58545183,Collections,14608
+44070,South West,Corporate Finance,C0050299,Contract Hire,A31207516,Payments,81610
+44101,North,Personal Finance,C0047107,Personal Loan,A34358975,Quality Control,36415
+44012,Wales,Corporate Finance,C0084562,Contract Hire,A47139871,Payments,50095
+43899,Scotland,Personal Finance,C0066877,Leasing,A58703304,Payments,98697
+44067,North East,Commercial Finance,C0030346,Hire Purchase,A34469683,Underwriting,55042
+44016,North East,Commercial Finance,C0090959,Hire Purchase,A46714836,Quality Control,26041
+44080,North East,Personal Finance,C0085705,Personal Loan,A96786178,Validation,20782
+44004,South West,Corporate Finance,C0060683,Hire Purchase,A46751655,KYC,27619
+44022,South East,Personal Finance,C0092742,Personal Loan,A67670664,Validation,18543
+43906,Wales,Commercial Finance,C0021913,Hire Purchase,A31399427,Collections,99410
+43873,South East,Corporate Finance,C0096219,Contract Hire,A67860820,Collections,20688
+44018,North West,Personal Finance,C0053172,Personal Loan,A67738083,Payments,36596
+44091,South East,Commercial Finance,C0048088,Leasing,A34994559,Validation,17854
+43880,North West,Corporate Finance,C0088754,Leasing,A51250679,Application,51557
+44089,North East,Commercial Finance,C0052624,Leasing,A75294265,Payments,84181
+43891,Scotland,Corporate Finance,C0045610,Hire Purchase,A35050447,Underwriting,34502
+44027,Midlands,Commercial Finance,C0064941,Contract Hire,A51591978,Validation,88164
+43972,North West,Personal Finance,C0071184,Personal Loan,A43518160,Validation,60090
+44068,South East,Corporate Finance,C0034198,Hire Purchase,A57299754,Underwriting,26851
+44049,Wales,Corporate Finance,C0064645,Contract Hire,A81122465,Application,46096
+44150,Wales,Commercial Finance,C0032363,Commercial Loan,A92134799,Documentation,60267
+44109,Midlands,Personal Finance,C0041149,Personal Loan,A34127518,Underwriting,38855
+43880,North,Personal Finance,C0072332,Leasing,A77163833,Quality Control,32048
+44174,North East,Personal Finance,C0037027,Leasing,A54889184,Collections,34483
+44130,Wales,Personal Finance,C0020716,Personal Loan,A43775132,Quality Control,32841
+43893,Scotland,Corporate Finance,C0031646,Leasing,A71856926,Underwriting,57424
+43978,Midlands,Personal Finance,C0069386,Hire Purchase,A67522980,Validation,61562
+43976,North,Corporate Finance,C0085295,Hire Purchase,A96426417,Collections,82683
+43992,North East,Commercial Finance,C0033280,Contract Hire,A28537027,Application,38556
+43898,Wales,Corporate Finance,C0097101,Contract Hire,A43621577,Payments,91676
+43873,North,Personal Finance,C0083233,Leasing,A35703786,Validation,81740
+43861,North East,Commercial Finance,C0097273,Contract Hire,A38814883,Payments,34882
+44035,South East,Corporate Finance,C0063913,Leasing,A38109474,KYC,84229
+43955,Midlands,Personal Finance,C0036342,Personal Loan,A62084466,Payments,65082
+43896,South East,Commercial Finance,C0048543,Hire Purchase,A92640262,KYC,99100
+44023,North East,Personal Finance,C0068278,Leasing,A80229419,Underwriting,99032
+44147,Midlands,Corporate Finance,C0076445,Leasing,A91878984,Underwriting,74040
+44002,North West,Personal Finance,C0037363,Personal Loan,A81098840,Underwriting,27662
+43883,North East,Commercial Finance,C0080573,Leasing,A74106729,Quality Control,73060
+44042,South East,Personal Finance,C0092319,Personal Loan,A93624874,Collections,21198
+44009,North,Corporate Finance,C0081891,Hire Purchase,A80533423,KYC,89086
+43973,Wales,Personal Finance,C0026535,Leasing,A46515662,Collections,31856
+44188,South East,Corporate Finance,C0078820,Hire Purchase,A41399253,Validation,37082
+43879,Midlands,Corporate Finance,C0028902,Leasing,A29790261,Payments,11951
+44194,Scotland,Personal Finance,C0091342,Leasing,A66391702,KYC,88289
+43941,North West,Commercial Finance,C0028425,Contract Hire,A28829233,Underwriting,9971
+44051,North West,Commercial Finance,C0024141,Commercial Loan,A58005487,Application,59575
+44090,Midlands,Corporate Finance,C0062295,Hire Purchase,A76841138,Quality Control,95191
+44088,North East,Commercial Finance,C0060656,Hire Purchase,A78887174,Validation,94547
+44163,South West,Personal Finance,C0058912,Leasing,A68753514,Payments,45754
+43855,North,Corporate Finance,C0045932,Leasing,A78156510,KYC,65773
+44152,South West,Personal Finance,C0086928,Personal Loan,A93875360,Quality Control,39281
+43960,South East,Corporate Finance,C0019365,Leasing,A91787694,Application,31816
+44169,North West,Commercial Finance,C0078555,Leasing,A96354914,Validation,50680
+43998,North,Commercial Finance,C0046724,Contract Hire,A80455261,Documentation,81876
+43949,South West,Commercial Finance,C0057185,Commercial Loan,A77782311,Underwriting,8163
+44145,North East,Corporate Finance,C0077844,Contract Hire,A68439000,Validation,47671
+44136,North East,Personal Finance,C0092319,Leasing,A95405039,Application,54460
+44181,North West,Personal Finance,C0028628,Hire Purchase,A40975484,KYC,4714
+44064,South West,Commercial Finance,C0021015,Leasing,A61574292,Application,89310
+44029,North West,Personal Finance,C0034372,Leasing,A47485218,Collections,46669
+44020,Wales,Commercial Finance,C0062493,Hire Purchase,A63787610,Validation,92191
+44018,Midlands,Corporate Finance,C0075672,Hire Purchase,A70615433,Quality Control,23811
+44194,Scotland,Corporate Finance,C0033637,Corporate Loan,A31300487,Application,36028
+43964,North,Corporate Finance,C0073979,Contract Hire,A94747774,Validation,12198
+44145,Scotland,Corporate Finance,C0034457,Hire Purchase,A95657989,Payments,32415
+44189,Scotland,Personal Finance,C0073248,Personal Loan,A74713352,Payments,56816
+43868,Wales,Corporate Finance,C0081691,Hire Purchase,A37514716,Underwriting,91727
+43834,South West,Corporate Finance,C0065823,Leasing,A71052924,Payments,81378
+44190,North West,Corporate Finance,C0088502,Contract Hire,A73598959,Collections,46535
+44079,North West,Commercial Finance,C0072153,Hire Purchase,A86198840,Collections,26881
+44016,Midlands,Corporate Finance,C0097266,Hire Purchase,A90825926,Validation,18529
+44168,North,Commercial Finance,C0079281,Contract Hire,A94386759,KYC,23100
+44142,South West,Corporate Finance,C0094723,Leasing,A55551475,Validation,58690
+44094,Wales,Commercial Finance,C0020458,Leasing,A68729555,Documentation,33508
+44016,North West,Personal Finance,C0080768,Personal Loan,A83774616,Collections,6488
+44128,North East,Commercial Finance,C0085162,Hire Purchase,A44017219,Payments,37681
+44075,South East,Corporate Finance,C0024080,Hire Purchase,A56357272,Documentation,62212
+44108,South East,Corporate Finance,C0062579,Leasing,A28989530,KYC,78913
+43921,Scotland,Personal Finance,C0027556,Hire Purchase,A40402644,Application,54899
+44182,South East,Commercial Finance,C0025584,Commercial Loan,A95535169,Validation,14521
+44152,South West,Commercial Finance,C0021214,Commercial Loan,A31280978,Validation,96993
+43955,North East,Corporate Finance,C0095198,Contract Hire,A95339791,Validation,59863
+43979,Midlands,Personal Finance,C0076254,Hire Purchase,A65873381,KYC,56381
+44183,North West,Corporate Finance,C0040133,Corporate Loan,A93918666,Validation,68480
+43969,North West,Personal Finance,C0076352,Leasing,A50928629,Collections,65733
+43885,North West,Commercial Finance,C0039654,Hire Purchase,A94839553,Underwriting,77043
+44004,South East,Commercial Finance,C0025046,Hire Purchase,A31229981,Underwriting,99940
+44099,Wales,Personal Finance,C0042379,Personal Loan,A53932176,Underwriting,579
+43978,Midlands,Commercial Finance,C0074116,Hire Purchase,A61088073,Validation,16565
+44090,North,Commercial Finance,C0097150,Commercial Loan,A49968024,Underwriting,79224
+44073,Wales,Personal Finance,C0095069,Personal Loan,A74079779,Application,90085
+44067,South East,Personal Finance,C0092404,Hire Purchase,A43052684,Application,48066
+44048,Wales,Corporate Finance,C0054512,Hire Purchase,A29114734,Application,23731
+44011,North East,Commercial Finance,C0041158,Contract Hire,A91260628,Validation,77080
+44019,Scotland,Personal Finance,C0055720,Personal Loan,A85658324,KYC,92760
+43862,South East,Commercial Finance,C0072236,Contract Hire,A54596805,Underwriting,84231
+44055,South East,Corporate Finance,C0070656,Hire Purchase,A67837985,KYC,13145
+43832,North East,Personal Finance,C0037627,Personal Loan,A91051732,Payments,26077
+43862,Scotland,Corporate Finance,C0075307,Corporate Loan,A82698978,Validation,40036
+43880,North East,Personal Finance,C0022074,Personal Loan,A95511125,Validation,60365
+43871,North West,Corporate Finance,C0077896,Contract Hire,A78220252,Application,47500
+44013,South East,Commercial Finance,C0081116,Commercial Loan,A77874289,Application,21383
+44190,North West,Commercial Finance,C0049507,Contract Hire,A52248363,Quality Control,7070
+43916,South West,Corporate Finance,C0025165,Leasing,A30709626,Payments,12298
+43853,Wales,Corporate Finance,C0071872,Hire Purchase,A37366470,KYC,86492
+44108,Midlands,Commercial Finance,C0066413,Leasing,A45205185,Collections,19463
+43836,Scotland,Commercial Finance,C0027674,Hire Purchase,A32483901,Collections,79282
+44001,Midlands,Personal Finance,C0037387,Personal Loan,A49836736,Application,49960
+44119,Scotland,Corporate Finance,C0048288,Leasing,A85729225,Documentation,73988
+44061,South East,Personal Finance,C0078679,Hire Purchase,A58931280,Documentation,8472
+44157,Midlands,Corporate Finance,C0091079,Leasing,A80272309,Underwriting,84541
+44146,Wales,Commercial Finance,C0020625,Hire Purchase,A59900060,Underwriting,19238
+43972,Midlands,Corporate Finance,C0031111,Leasing,A69892183,Underwriting,55425
+44191,South West,Personal Finance,C0029357,Personal Loan,A54942993,Application,59462
+43913,North,Commercial Finance,C0070063,Commercial Loan,A95413454,Payments,67160
+44030,Wales,Personal Finance,C0022924,Personal Loan,A51373153,Validation,12907
+43920,Midlands,Commercial Finance,C0039592,Commercial Loan,A68342531,Documentation,87466
+43837,Wales,Corporate Finance,C0024254,Contract Hire,A93168938,Quality Control,69746
+44089,South East,Commercial Finance,C0036486,Commercial Loan,A84249860,Documentation,80099
+43862,North,Corporate Finance,C0037258,Hire Purchase,A71996267,Underwriting,39189
+43947,South West,Corporate Finance,C0036477,Corporate Loan,A87496439,Collections,89754
+43835,South West,Personal Finance,C0094866,Hire Purchase,A28690569,Quality Control,27769
+44135,North East,Corporate Finance,C0022646,Contract Hire,A36483449,Validation,97843
+44138,Scotland,Corporate Finance,C0070382,Hire Purchase,A96093474,Quality Control,2955
+43910,South East,Corporate Finance,C0079122,Corporate Loan,A97539756,Application,74965
+44023,North East,Commercial Finance,C0072491,Leasing,A29716510,Collections,61045
+43859,North East,Corporate Finance,C0070343,Hire Purchase,A73681777,Validation,75793
+43834,South East,Corporate Finance,C0054592,Hire Purchase,A50066365,KYC,23802
+44122,Scotland,Commercial Finance,C0050053,Leasing,A63365262,Collections,47272
+44112,North West,Corporate Finance,C0037319,Leasing,A32486446,KYC,36455
+43844,South East,Commercial Finance,C0088001,Commercial Loan,A91869648,Validation,10764
+44031,North,Corporate Finance,C0085166,Contract Hire,A32823372,Validation,16334
+43967,North East,Corporate Finance,C0093951,Hire Purchase,A60584003,Quality Control,52967
+44192,South East,Corporate Finance,C0066746,Contract Hire,A87769684,Collections,22120
+44082,South East,Personal Finance,C0047787,Leasing,A69925453,Validation,96543
+44159,Wales,Corporate Finance,C0088407,Contract Hire,A40907898,Payments,32783
+44121,South West,Corporate Finance,C0045732,Leasing,A29582552,Application,25980
+43997,North,Personal Finance,C0066067,Hire Purchase,A68212025,KYC,74954
+44040,Wales,Personal Finance,C0050497,Hire Purchase,A57694021,KYC,66847
+44020,Midlands,Commercial Finance,C0067241,Commercial Loan,A30374685,Documentation,48441
+44184,North,Corporate Finance,C0054015,Corporate Loan,A86439382,Underwriting,39945
+43844,North West,Commercial Finance,C0048480,Leasing,A35939612,Validation,69130
+43850,North East,Personal Finance,C0032736,Hire Purchase,A66702125,Validation,19487
+43856,South East,Commercial Finance,C0023902,Contract Hire,A81742574,KYC,14734
+44079,North West,Corporate Finance,C0037605,Leasing,A81661046,Validation,81674
+44105,North,Commercial Finance,C0038648,Commercial Loan,A33272286,Quality Control,10198
+43947,North West,Commercial Finance,C0042519,Leasing,A87469946,Payments,73129
+44067,Scotland,Corporate Finance,C0064330,Leasing,A77762635,Underwriting,33111
+43995,Midlands,Personal Finance,C0032862,Leasing,A71142454,Quality Control,29782
+43995,North East,Personal Finance,C0090440,Hire Purchase,A55467741,KYC,77527
+44153,North West,Personal Finance,C0070691,Hire Purchase,A54465392,Underwriting,19955
+44139,Midlands,Commercial Finance,C0041082,Contract Hire,A97730348,KYC,96462
+43938,South West,Corporate Finance,C0090161,Contract Hire,A82112187,Documentation,66539
+43831,Scotland,Commercial Finance,C0061745,Hire Purchase,A72281756,Underwriting,97289
+43992,North West,Personal Finance,C0081709,Hire Purchase,A60941099,Documentation,11099
+43855,Midlands,Personal Finance,C0090021,Hire Purchase,A97068311,Application,26871
+43922,North,Commercial Finance,C0085394,Hire Purchase,A85822000,Underwriting,34804
+44018,South West,Commercial Finance,C0024586,Contract Hire,A56830415,KYC,64396
+44112,North West,Corporate Finance,C0041169,Corporate Loan,A34414970,Collections,827
+43920,South West,Corporate Finance,C0078039,Leasing,A44255470,Validation,2527
+43917,North West,Commercial Finance,C0069037,Commercial Loan,A31158480,Validation,58768
+43840,North,Corporate Finance,C0054002,Leasing,A41561876,Payments,29271
+43887,Scotland,Corporate Finance,C0025895,Leasing,A67996264,Quality Control,12860
+44047,Scotland,Corporate Finance,C0050733,Corporate Loan,A55550353,Payments,40307
+44163,North,Personal Finance,C0022548,Hire Purchase,A89462441,Validation,96461
+44009,Wales,Corporate Finance,C0024058,Contract Hire,A35861721,Documentation,79458
+44055,North West,Commercial Finance,C0086990,Hire Purchase,A94695567,Validation,67737
+44164,Wales,Commercial Finance,C0092654,Commercial Loan,A70027344,Quality Control,69636
+44056,Scotland,Commercial Finance,C0037715,Hire Purchase,A37687243,Quality Control,57861
+44188,Midlands,Personal Finance,C0034517,Personal Loan,A29014781,Quality Control,36311
+44123,North West,Commercial Finance,C0039238,Hire Purchase,A42574572,Payments,33122
+44018,Wales,Commercial Finance,C0061011,Leasing,A97750852,Collections,51729
+43901,North West,Commercial Finance,C0064295,Commercial Loan,A92066837,KYC,51682
+43990,Scotland,Personal Finance,C0032760,Personal Loan,A50068029,Validation,52068
+44170,Wales,Personal Finance,C0058181,Leasing,A60804728,Collections,42644
+44077,Midlands,Corporate Finance,C0087818,Contract Hire,A59691978,Quality Control,81525
+44026,South West,Commercial Finance,C0091602,Commercial Loan,A90595876,Payments,17133
+43853,North East,Personal Finance,C0055015,Leasing,A36170438,Quality Control,59059
+43983,North West,Commercial Finance,C0037058,Hire Purchase,A61610449,Quality Control,47120
+43909,North West,Corporate Finance,C0090899,Corporate Loan,A73558010,Application,29684
+44179,Wales,Personal Finance,C0092393,Hire Purchase,A83507162,Payments,92392
+43890,Scotland,Personal Finance,C0025833,Personal Loan,A94438602,Documentation,4141
+44094,South West,Corporate Finance,C0048472,Leasing,A48380692,Validation,3748
+44010,South West,Commercial Finance,C0075780,Commercial Loan,A67337009,Documentation,41488
+44185,North East,Commercial Finance,C0093453,Leasing,A36622307,Underwriting,75647
+43846,North West,Personal Finance,C0079061,Hire Purchase,A44405716,Validation,58338
+43915,South East,Commercial Finance,C0089615,Commercial Loan,A75923940,Underwriting,22156
+44026,North West,Corporate Finance,C0052860,Leasing,A97144550,Quality Control,29168
+44101,Scotland,Corporate Finance,C0019650,Hire Purchase,A34107179,KYC,99161
+43951,Midlands,Personal Finance,C0031153,Personal Loan,A64221580,Collections,3218
+43952,South East,Corporate Finance,C0046901,Corporate Loan,A77594493,KYC,91986
+44158,Midlands,Corporate Finance,C0059501,Leasing,A60363613,Documentation,48691
+44172,South West,Corporate Finance,C0073735,Corporate Loan,A79901176,Documentation,78259
+43844,Wales,Personal Finance,C0080772,Leasing,A57234659,Payments,12995
+43877,South East,Corporate Finance,C0038440,Hire Purchase,A36514847,Application,12764
+44111,North,Commercial Finance,C0027535,Commercial Loan,A93675985,Payments,50763
+43843,Scotland,Commercial Finance,C0075972,Leasing,A75373042,Application,11113
+43864,North,Corporate Finance,C0046720,Leasing,A50092150,Quality Control,79766
+43832,Wales,Corporate Finance,C0095234,Corporate Loan,A93413479,Payments,24957
+44110,Scotland,Personal Finance,C0090090,Leasing,A86588810,Validation,27665
+43837,Midlands,Personal Finance,C0085846,Personal Loan,A96537562,Quality Control,52743
+44117,North,Personal Finance,C0037393,Hire Purchase,A85690002,Payments,82726
+44176,North,Commercial Finance,C0088806,Hire Purchase,A97768236,KYC,92034
+44033,Midlands,Corporate Finance,C0087129,Hire Purchase,A91565709,Validation,40053
+43992,South East,Commercial Finance,C0079932,Commercial Loan,A84910448,Collections,97195
+44071,Midlands,Personal Finance,C0085538,Personal Loan,A71305553,Underwriting,82569
+44105,Scotland,Personal Finance,C0033602,Hire Purchase,A88078134,Validation,47065
+43861,North East,Corporate Finance,C0090661,Leasing,A93114404,Collections,77589
+43888,North West,Commercial Finance,C0093309,Commercial Loan,A85207208,Quality Control,47263
+44066,North,Personal Finance,C0081005,Personal Loan,A34218061,Application,80414
+43969,Midlands,Corporate Finance,C0031584,Hire Purchase,A63189518,Quality Control,88784
+44110,South East,Corporate Finance,C0070393,Contract Hire,A72362051,Validation,58308
+43943,South East,Personal Finance,C0036352,Hire Purchase,A73852486,Documentation,65671
+43983,North West,Personal Finance,C0053263,Hire Purchase,A86709854,KYC,28717
+43892,South East,Commercial Finance,C0066549,Hire Purchase,A89472691,Quality Control,40259
+43913,Scotland,Personal Finance,C0089146,Leasing,A32669168,Collections,59774
+43885,Midlands,Corporate Finance,C0046605,Hire Purchase,A70311662,Validation,42942
+44014,North,Personal Finance,C0087689,Hire Purchase,A68100956,Collections,7514
+44089,Midlands,Commercial Finance,C0083795,Leasing,A61825077,KYC,28102
+43868,Midlands,Personal Finance,C0088487,Hire Purchase,A95170228,Underwriting,41808
+44028,South West,Personal Finance,C0060732,Personal Loan,A39515067,Validation,1446
+43990,Wales,Personal Finance,C0042414,Personal Loan,A44067042,Validation,35597
+44146,Wales,Personal Finance,C0056787,Personal Loan,A47051210,Application,59034
+43974,Midlands,Personal Finance,C0063014,Hire Purchase,A37113883,Validation,95167
+43885,Scotland,Corporate Finance,C0066572,Corporate Loan,A43241856,Application,74995
+43964,North West,Personal Finance,C0022671,Leasing,A64089602,Validation,85041
+44077,Midlands,Commercial Finance,C0074007,Commercial Loan,A94078841,Payments,43623
+44192,South West,Personal Finance,C0084025,Hire Purchase,A36984987,Application,39940
+44117,South West,Corporate Finance,C0079467,Leasing,A38238713,Application,44429
+43917,North West,Corporate Finance,C0048086,Contract Hire,A45791501,Underwriting,73723
+44041,South East,Corporate Finance,C0070311,Contract Hire,A77895593,Validation,62069
+43904,North West,Personal Finance,C0074491,Personal Loan,A89010364,Collections,56631
+43989,North,Personal Finance,C0087800,Personal Loan,A84262589,Collections,13471
+43882,North East,Corporate Finance,C0092940,Corporate Loan,A85047090,Application,39249
+43834,Scotland,Commercial Finance,C0077903,Commercial Loan,A96203502,Validation,41598
+43927,North,Corporate Finance,C0085777,Leasing,A53933650,KYC,45251
+43971,Scotland,Commercial Finance,C0060407,Leasing,A52121815,Underwriting,54557
+44038,Midlands,Commercial Finance,C0068527,Hire Purchase,A84036022,Documentation,12553
+44161,Midlands,Corporate Finance,C0074493,Hire Purchase,A94057301,Underwriting,39302
+44178,North,Corporate Finance,C0047992,Hire Purchase,A52782004,KYC,97288
+44002,North West,Corporate Finance,C0031561,Contract Hire,A79294987,Collections,29000
+43891,North West,Commercial Finance,C0093823,Hire Purchase,A43028440,Underwriting,95743
+43948,Wales,Personal Finance,C0097201,Personal Loan,A67903570,Collections,12806
+43989,South East,Commercial Finance,C0048357,Commercial Loan,A28956971,Documentation,26978
+43945,South West,Corporate Finance,C0046117,Corporate Loan,A55999713,Documentation,46365
+44111,North,Personal Finance,C0026473,Hire Purchase,A63289568,Application,51719
+44091,North West,Commercial Finance,C0054394,Leasing,A63662803,Quality Control,83575
+44133,North,Commercial Finance,C0037656,Commercial Loan,A68422622,KYC,61062
+43943,South East,Commercial Finance,C0074751,Hire Purchase,A69528058,Underwriting,72617
+43931,North West,Commercial Finance,C0086920,Hire Purchase,A86844074,Collections,81207
+44189,Wales,Commercial Finance,C0095887,Hire Purchase,A70346081,KYC,18901
+44054,Midlands,Personal Finance,C0073396,Personal Loan,A63463067,Collections,72830
+43894,South West,Personal Finance,C0053025,Personal Loan,A80697413,KYC,13018
+44117,Midlands,Commercial Finance,C0024021,Commercial Loan,A38468057,Validation,27872
+44003,Scotland,Personal Finance,C0021804,Hire Purchase,A30694446,KYC,25824
+44135,North East,Corporate Finance,C0023924,Leasing,A51479614,Collections,24034
+43838,North West,Personal Finance,C0044928,Leasing,A69756216,Underwriting,18364
+44098,Scotland,Commercial Finance,C0089838,Leasing,A61072263,Collections,21954
+43884,Wales,Personal Finance,C0095010,Hire Purchase,A48070565,Underwriting,57210
+43908,South East,Corporate Finance,C0036869,Contract Hire,A40407970,Payments,29878
+44111,South East,Commercial Finance,C0055424,Commercial Loan,A38077293,Quality Control,51269
+43837,South West,Corporate Finance,C0052387,Contract Hire,A97797128,Payments,68481
+44072,North East,Personal Finance,C0035922,Hire Purchase,A33641337,Quality Control,30169
+43943,South East,Personal Finance,C0071937,Personal Loan,A77237136,Application,90600
+44195,South East,Corporate Finance,C0020689,Contract Hire,A35419737,Collections,19718
+43838,South East,Corporate Finance,C0084082,Hire Purchase,A73590356,Application,30263
+44105,North West,Commercial Finance,C0032867,Leasing,A55561344,Payments,94036
+44045,North,Personal Finance,C0075958,Hire Purchase,A65110450,Quality Control,18666
+43862,South West,Commercial Finance,C0038930,Commercial Loan,A85168035,Quality Control,49831
+44050,North East,Personal Finance,C0042990,Leasing,A79451860,Documentation,40911
+44014,North East,Corporate Finance,C0045667,Corporate Loan,A79295588,Quality Control,80727
+44141,North West,Corporate Finance,C0035010,Contract Hire,A40178457,Validation,41514
+44046,South West,Corporate Finance,C0097142,Leasing,A79154634,Quality Control,17050
+43995,South East,Commercial Finance,C0051932,Contract Hire,A59957045,Quality Control,91587
+43869,Wales,Personal Finance,C0075134,Hire Purchase,A43311236,Collections,42607
+43863,South West,Corporate Finance,C0044921,Contract Hire,A74102412,Collections,72241
+43840,South East,Commercial Finance,C0064351,Commercial Loan,A58018685,Payments,31951
+43878,South West,Corporate Finance,C0043706,Contract Hire,A43497118,Quality Control,10506
+44050,North West,Commercial Finance,C0047535,Hire Purchase,A52347383,Documentation,10263
+44112,North East,Commercial Finance,C0094618,Hire Purchase,A52782918,KYC,26193
+43906,Scotland,Commercial Finance,C0060415,Contract Hire,A71174941,Validation,86997
+44127,Scotland,Corporate Finance,C0057244,Corporate Loan,A36008894,Documentation,7499
+44077,Scotland,Personal Finance,C0073734,Hire Purchase,A36802400,KYC,98193
+43952,Midlands,Personal Finance,C0022311,Personal Loan,A50656432,Underwriting,29011
+43945,Scotland,Personal Finance,C0028987,Personal Loan,A75326295,Application,72082
+43999,North,Personal Finance,C0042105,Leasing,A92021554,Application,50826
+43855,South West,Commercial Finance,C0028407,Contract Hire,A80060863,Payments,25872
+43996,Wales,Corporate Finance,C0022056,Hire Purchase,A41942845,Validation,75369
+44129,South West,Personal Finance,C0027238,Leasing,A56848480,Validation,4407
+43874,South East,Commercial Finance,C0080267,Commercial Loan,A89160871,Underwriting,30628
+44099,North,Corporate Finance,C0074549,Leasing,A60719482,Application,92010
+44046,Scotland,Personal Finance,C0075368,Hire Purchase,A66427539,Collections,42950
+43937,Scotland,Personal Finance,C0046837,Personal Loan,A34455958,Documentation,29289
+43989,North,Personal Finance,C0081920,Hire Purchase,A90368803,Documentation,33288
+44183,South West,Personal Finance,C0065513,Personal Loan,A97145183,Underwriting,5821
+44019,Wales,Personal Finance,C0029225,Hire Purchase,A92928906,Quality Control,85551
+43981,South West,Corporate Finance,C0031347,Leasing,A96185342,Collections,3348
+44130,South West,Commercial Finance,C0080132,Hire Purchase,A56998156,Collections,42178
+44068,Wales,Personal Finance,C0063345,Hire Purchase,A86603279,Quality Control,87665
+44149,North,Corporate Finance,C0074286,Leasing,A92378770,Underwriting,47440
+44040,South East,Commercial Finance,C0026817,Contract Hire,A56451889,Documentation,7865
+44150,Scotland,Commercial Finance,C0063663,Contract Hire,A55764278,KYC,49983
+43975,North East,Commercial Finance,C0053279,Leasing,A33268873,Quality Control,66269
+43857,Scotland,Commercial Finance,C0021695,Contract Hire,A52716726,Validation,57252
+43985,Scotland,Commercial Finance,C0078855,Commercial Loan,A53518677,Payments,69764
+44171,South East,Commercial Finance,C0064340,Hire Purchase,A60963597,Application,89920
+44100,South West,Personal Finance,C0051885,Leasing,A49253265,Application,30869
+44006,Scotland,Personal Finance,C0091918,Personal Loan,A50646082,Collections,36908
+44048,North,Personal Finance,C0036557,Personal Loan,A53536993,Documentation,78077
+44000,South East,Corporate Finance,C0073155,Contract Hire,A30614353,Documentation,72057
+43896,North,Personal Finance,C0080279,Hire Purchase,A67713869,KYC,43329
+44089,South West,Personal Finance,C0030708,Leasing,A36519044,Documentation,65792
+44151,Scotland,Personal Finance,C0033556,Personal Loan,A35222284,KYC,35560
+44146,Midlands,Commercial Finance,C0065026,Leasing,A48568041,Validation,4006
+43948,North West,Corporate Finance,C0029260,Corporate Loan,A95982317,Payments,39835
+44167,Wales,Personal Finance,C0031121,Leasing,A73733952,Quality Control,24598
+43890,North,Commercial Finance,C0066343,Commercial Loan,A73714348,Collections,76637
+43837,North West,Commercial Finance,C0074177,Leasing,A60121555,Validation,84502
+43945,North East,Personal Finance,C0033403,Personal Loan,A48534724,Underwriting,43898
+44097,North East,Corporate Finance,C0037682,Hire Purchase,A46864246,Collections,81720
+44173,South West,Commercial Finance,C0068546,Commercial Loan,A72285298,Quality Control,80229
+44086,South East,Corporate Finance,C0085448,Hire Purchase,A70924692,KYC,91108
+44133,North,Personal Finance,C0065269,Hire Purchase,A78289720,KYC,68811
+44187,South East,Personal Finance,C0066037,Personal Loan,A46599535,Underwriting,47184
+43866,North East,Personal Finance,C0026925,Personal Loan,A96185065,Underwriting,66007
+44183,South East,Commercial Finance,C0066407,Hire Purchase,A74881767,KYC,94075
+43866,North East,Corporate Finance,C0057218,Contract Hire,A30255372,Application,46758
+43867,South West,Commercial Finance,C0047164,Contract Hire,A53746547,Validation,69183
+44056,North,Personal Finance,C0041452,Hire Purchase,A87834985,Collections,9406
+44130,North West,Commercial Finance,C0062956,Commercial Loan,A74892360,Validation,44016
+44191,North East,Personal Finance,C0019155,Hire Purchase,A84354593,Quality Control,85348
+44145,South East,Corporate Finance,C0036006,Contract Hire,A61638386,Validation,33420
+44044,North East,Personal Finance,C0045678,Personal Loan,A29310429,Validation,66866
+44150,North,Commercial Finance,C0035291,Contract Hire,A40140255,Payments,21197
+44106,North,Corporate Finance,C0072565,Hire Purchase,A40724009,Application,67169
+44047,North East,Commercial Finance,C0034400,Hire Purchase,A72665217,Underwriting,3238
+43951,North East,Commercial Finance,C0037485,Contract Hire,A39287119,Collections,17452
+43940,Scotland,Corporate Finance,C0042749,Corporate Loan,A92162073,Quality Control,83203
+43994,North,Corporate Finance,C0020000,Contract Hire,A61023566,Documentation,9128
+43881,South East,Personal Finance,C0040510,Personal Loan,A31673304,Application,62354
+43862,Scotland,Corporate Finance,C0020065,Leasing,A41361478,KYC,76592
+43924,Wales,Commercial Finance,C0090650,Commercial Loan,A64226856,Collections,35794
+43886,Wales,Corporate Finance,C0093338,Contract Hire,A88163191,Documentation,13184
+43987,Scotland,Commercial Finance,C0042467,Hire Purchase,A93311437,Payments,62827
+44070,North West,Corporate Finance,C0074640,Hire Purchase,A66370571,Documentation,71608
+43964,South West,Corporate Finance,C0051635,Corporate Loan,A81310789,Quality Control,54088
+44138,South West,Personal Finance,C0026821,Leasing,A63834250,Quality Control,58528
+44107,South West,Personal Finance,C0053591,Hire Purchase,A72375592,Underwriting,49848
+44193,North West,Corporate Finance,C0039460,Hire Purchase,A51536596,Collections,96452
+44168,North West,Commercial Finance,C0083858,Leasing,A39001774,Application,80524
+43903,Scotland,Personal Finance,C0086263,Personal Loan,A39436942,Application,92850
+43943,Midlands,Corporate Finance,C0055651,Hire Purchase,A94819364,Application,24448
+44134,Midlands,Corporate Finance,C0059759,Hire Purchase,A93850419,Payments,78756
+44017,South West,Commercial Finance,C0062272,Contract Hire,A70627492,KYC,34257
+43936,North East,Personal Finance,C0020865,Hire Purchase,A41151584,Quality Control,49806
+43959,South East,Commercial Finance,C0057101,Contract Hire,A52213379,KYC,83761
+44028,South West,Corporate Finance,C0041205,Corporate Loan,A70503918,Payments,21966
+43852,North West,Personal Finance,C0030389,Personal Loan,A46334358,Validation,50800
+44022,North East,Personal Finance,C0076412,Leasing,A38883677,KYC,80763
+43901,North West,Corporate Finance,C0064179,Hire Purchase,A29025443,KYC,58119
+44091,Scotland,Commercial Finance,C0033767,Leasing,A94132377,Quality Control,51065
+44179,South East,Corporate Finance,C0067896,Corporate Loan,A31120601,Validation,70975
+44196,Midlands,Commercial Finance,C0028690,Hire Purchase,A48073966,Payments,82221
+43972,Midlands,Corporate Finance,C0035465,Contract Hire,A30622848,Collections,20559
+43900,North,Commercial Finance,C0072509,Commercial Loan,A41716042,Application,88655
+43970,Scotland,Corporate Finance,C0080549,Leasing,A51256506,Quality Control,79533
+44195,Scotland,Corporate Finance,C0071828,Contract Hire,A62291405,Documentation,27746
+44090,Midlands,Commercial Finance,C0051012,Commercial Loan,A49498482,Validation,39768
+43977,Scotland,Personal Finance,C0072106,Leasing,A40031346,Underwriting,19325
+43944,South West,Personal Finance,C0021464,Hire Purchase,A95893325,Documentation,34264
+43937,Scotland,Corporate Finance,C0033916,Corporate Loan,A84767168,Documentation,50936
+44020,North,Commercial Finance,C0062676,Hire Purchase,A75717154,Quality Control,78605
+44188,South East,Corporate Finance,C0059571,Corporate Loan,A69437794,Payments,67670
+43911,Wales,Commercial Finance,C0071818,Leasing,A51989787,Validation,45897
+43951,Midlands,Commercial Finance,C0092747,Commercial Loan,A56805316,Underwriting,50711
+43848,North East,Corporate Finance,C0041531,Leasing,A45409861,Quality Control,17026
+44194,Midlands,Personal Finance,C0059116,Personal Loan,A37005298,Collections,79119
+44191,North West,Personal Finance,C0056880,Hire Purchase,A66731630,Collections,2930
+44170,North,Commercial Finance,C0040011,Leasing,A69288107,Collections,43588
+44185,South East,Commercial Finance,C0075295,Contract Hire,A82833910,Underwriting,96886
+43896,Scotland,Corporate Finance,C0043231,Corporate Loan,A48795669,KYC,72285
+44141,North East,Corporate Finance,C0071697,Hire Purchase,A32762659,Quality Control,9358
+43942,North East,Commercial Finance,C0038696,Commercial Loan,A61729784,Collections,70320
+44179,South East,Corporate Finance,C0080822,Corporate Loan,A72412352,Validation,82397
+43932,North East,Personal Finance,C0074425,Leasing,A33288597,Quality Control,55810
+43986,South East,Personal Finance,C0079966,Leasing,A47077608,Application,57682
+44128,Wales,Corporate Finance,C0043427,Contract Hire,A39597959,Validation,65425
+44082,North,Corporate Finance,C0067044,Hire Purchase,A53703200,Validation,11943
+44031,North East,Commercial Finance,C0065663,Hire Purchase,A95144520,Payments,6788
+43948,Scotland,Corporate Finance,C0063113,Hire Purchase,A76530330,Collections,26640
+44079,South East,Corporate Finance,C0067844,Hire Purchase,A63106806,Payments,35240
+44167,North,Personal Finance,C0084536,Leasing,A47423445,Documentation,49679
+44175,South East,Commercial Finance,C0087168,Commercial Loan,A60631226,KYC,66687
+44058,South West,Commercial Finance,C0025885,Leasing,A62224295,Validation,44527
+44033,North,Personal Finance,C0091058,Leasing,A66660504,Underwriting,16512
+44164,Wales,Commercial Finance,C0038586,Leasing,A87564027,Application,12261
+44103,South West,Personal Finance,C0058542,Leasing,A29439841,KYC,92472
+43976,Wales,Corporate Finance,C0088609,Leasing,A81989679,Underwriting,98567
+43842,North West,Corporate Finance,C0070979,Contract Hire,A83717120,Documentation,14729
+44056,North,Personal Finance,C0096523,Personal Loan,A54484998,Quality Control,22354
+43837,Midlands,Commercial Finance,C0057060,Commercial Loan,A86357738,Payments,84868
+43839,North,Personal Finance,C0090791,Leasing,A48340314,Quality Control,59174
+43953,North West,Personal Finance,C0078526,Personal Loan,A82742945,Payments,23653
+43847,North,Personal Finance,C0075928,Leasing,A76976146,Underwriting,5452
+43890,North West,Personal Finance,C0089024,Hire Purchase,A33922556,Quality Control,95292
+44035,Midlands,Corporate Finance,C0089373,Hire Purchase,A72605682,Documentation,33526
+43834,North,Personal Finance,C0069157,Personal Loan,A69431722,Collections,63196
+43933,South East,Commercial Finance,C0046600,Contract Hire,A70048533,Application,75431
+43946,North East,Commercial Finance,C0029755,Contract Hire,A94202536,Collections,42617
+43964,North West,Personal Finance,C0023411,Leasing,A54295763,Validation,18414
+44016,North East,Personal Finance,C0080472,Leasing,A48525312,Underwriting,41483
+43874,Midlands,Commercial Finance,C0086918,Contract Hire,A76603547,Documentation,91105
+43905,North,Commercial Finance,C0035666,Hire Purchase,A91971146,Validation,64645
+44187,Scotland,Commercial Finance,C0034857,Commercial Loan,A97506643,KYC,97036
+44186,North West,Personal Finance,C0087739,Leasing,A38414941,KYC,47323
+44030,Midlands,Commercial Finance,C0040169,Contract Hire,A89073249,Collections,11424
+44030,North West,Personal Finance,C0021597,Personal Loan,A93712736,KYC,30973
+43890,North,Commercial Finance,C0027202,Hire Purchase,A65813782,KYC,92396
+44183,Wales,Commercial Finance,C0093228,Commercial Loan,A75172361,KYC,53263
+43969,South West,Commercial Finance,C0075817,Commercial Loan,A74606287,Validation,82119
+43902,South West,Personal Finance,C0082995,Personal Loan,A34673126,Documentation,57839
+44051,South West,Corporate Finance,C0060502,Corporate Loan,A97531761,Underwriting,23295
+44196,North West,Corporate Finance,C0021441,Hire Purchase,A40118461,Collections,89376
+44178,Scotland,Corporate Finance,C0025805,Leasing,A41597625,Documentation,40502
+43900,South East,Commercial Finance,C0053864,Hire Purchase,A70092170,KYC,45362
+44057,South East,Personal Finance,C0067755,Leasing,A75274289,KYC,13902
+44171,North West,Corporate Finance,C0074489,Corporate Loan,A84718293,Underwriting,39165
+44042,South East,Personal Finance,C0067047,Personal Loan,A83112507,Payments,12447
+43936,North East,Corporate Finance,C0023044,Corporate Loan,A34181196,Collections,53050
+43951,Midlands,Corporate Finance,C0020028,Corporate Loan,A45960316,Underwriting,60376
+43885,South East,Personal Finance,C0096476,Leasing,A59298354,Application,43245
+43959,North West,Personal Finance,C0039267,Hire Purchase,A55596577,Payments,57179
+43869,North East,Corporate Finance,C0074913,Corporate Loan,A96244921,Quality Control,75847
+43986,North,Personal Finance,C0082205,Hire Purchase,A68433688,Underwriting,6318
+44125,South East,Corporate Finance,C0037433,Contract Hire,A47296210,KYC,56081
+43876,North West,Commercial Finance,C0094009,Leasing,A37057358,Documentation,42819
+44076,Midlands,Personal Finance,C0045229,Hire Purchase,A38491539,Payments,6847
+44181,South West,Commercial Finance,C0044015,Commercial Loan,A32749504,Collections,94704
+44165,Scotland,Commercial Finance,C0067347,Commercial Loan,A73208638,Collections,9709
+43952,North West,Corporate Finance,C0067720,Leasing,A91988904,Documentation,58693
+44187,Scotland,Commercial Finance,C0029593,Hire Purchase,A57010627,Payments,8903
+44047,North,Commercial Finance,C0092093,Hire Purchase,A53903293,KYC,27017
+43857,North West,Corporate Finance,C0029443,Corporate Loan,A52711079,Collections,84906
+44165,North West,Corporate Finance,C0068105,Leasing,A76762243,Collections,27816
+43907,North East,Personal Finance,C0022824,Hire Purchase,A36652700,Validation,83051
+43978,South West,Corporate Finance,C0063112,Contract Hire,A56954906,Collections,48816
+44079,South East,Personal Finance,C0048229,Leasing,A61294313,Payments,11190
+44070,South West,Personal Finance,C0032345,Hire Purchase,A78555536,Validation,57724
+43879,Wales,Corporate Finance,C0035480,Corporate Loan,A66298312,Documentation,93610
+44103,Wales,Corporate Finance,C0062562,Corporate Loan,A29220312,Payments,52172
+43899,Scotland,Corporate Finance,C0058213,Leasing,A45215272,KYC,40231
+44024,Midlands,Corporate Finance,C0022422,Corporate Loan,A42937503,Documentation,71100
+43921,North East,Corporate Finance,C0073358,Leasing,A97058359,Underwriting,64610
+43862,Wales,Commercial Finance,C0037820,Commercial Loan,A84140501,Documentation,91175
+43873,Wales,Commercial Finance,C0086196,Leasing,A44622023,Collections,47531
+44144,Wales,Personal Finance,C0043066,Leasing,A62406283,Quality Control,66975
+44141,North,Personal Finance,C0020676,Personal Loan,A36952294,Quality Control,20954
+44039,North,Commercial Finance,C0095984,Commercial Loan,A29539035,Collections,55454
+43895,North,Corporate Finance,C0085821,Corporate Loan,A94057127,Underwriting,49727
+43933,North East,Personal Finance,C0035313,Hire Purchase,A80574437,Application,63095
+43929,Midlands,Personal Finance,C0045842,Personal Loan,A35077989,Quality Control,26927
+43845,Wales,Personal Finance,C0061053,Personal Loan,A71112542,Validation,50528
+44177,Wales,Corporate Finance,C0031919,Corporate Loan,A34070479,Collections,21260
+44048,Wales,Commercial Finance,C0059084,Commercial Loan,A87988157,Collections,64229
+44129,Wales,Corporate Finance,C0069290,Leasing,A88684628,Application,98132
+44137,North,Personal Finance,C0018874,Personal Loan,A75173413,Documentation,34562
+44032,South West,Commercial Finance,C0032248,Hire Purchase,A37123562,Underwriting,86401
+44034,South West,Commercial Finance,C0088128,Leasing,A65998931,Validation,40339
+43964,South East,Personal Finance,C0058440,Personal Loan,A59408660,Payments,40003
+43937,South West,Personal Finance,C0067949,Hire Purchase,A80053888,Documentation,10534
+44099,North West,Corporate Finance,C0042344,Hire Purchase,A36219210,KYC,54632
+44104,South West,Corporate Finance,C0060012,Corporate Loan,A89371155,Validation,81060
+44075,North West,Corporate Finance,C0072817,Leasing,A58446695,Documentation,92054
+44011,South East,Personal Finance,C0070272,Hire Purchase,A39254726,Application,43978
+43994,Scotland,Personal Finance,C0065082,Leasing,A74129598,KYC,71695
+44033,North East,Corporate Finance,C0050236,Leasing,A72886756,Documentation,81492
+43850,North West,Corporate Finance,C0055129,Corporate Loan,A33656267,Quality Control,18036
+44107,South East,Personal Finance,C0035188,Hire Purchase,A74361988,Application,55933
+43897,South East,Commercial Finance,C0069945,Leasing,A53118068,Underwriting,55707
+43871,Midlands,Commercial Finance,C0041352,Hire Purchase,A88432017,Validation,41081
+44054,Scotland,Corporate Finance,C0029740,Leasing,A35871030,KYC,9610
+43962,Midlands,Personal Finance,C0054508,Personal Loan,A80632732,Payments,20626
+43949,Wales,Commercial Finance,C0036816,Hire Purchase,A62372182,Collections,29739
+44094,Midlands,Corporate Finance,C0061126,Hire Purchase,A39085683,Documentation,21772
+44019,North,Personal Finance,C0090687,Personal Loan,A92859403,KYC,59621
+44059,Wales,Personal Finance,C0072066,Personal Loan,A43956540,Application,52740
+43855,Midlands,Commercial Finance,C0081910,Leasing,A85537052,KYC,70076
+43862,Scotland,Commercial Finance,C0033200,Contract Hire,A75824220,Validation,29852
+43864,North East,Commercial Finance,C0089513,Commercial Loan,A47595151,Payments,96551
+44075,North East,Personal Finance,C0025526,Hire Purchase,A81719119,Underwriting,67942
+43935,Wales,Commercial Finance,C0059215,Contract Hire,A42052012,KYC,89478
+44190,South West,Corporate Finance,C0074698,Contract Hire,A47216971,Documentation,82951
+44010,Wales,Personal Finance,C0020348,Leasing,A89277102,Underwriting,70704
+43869,South East,Corporate Finance,C0019679,Corporate Loan,A47113682,Quality Control,25557
+44067,South East,Corporate Finance,C0093724,Contract Hire,A34943155,Quality Control,58688
+43845,North West,Personal Finance,C0031590,Leasing,A70512701,Documentation,35799
+44156,South East,Personal Finance,C0031470,Personal Loan,A60038343,Payments,27530
+44189,South West,Corporate Finance,C0026978,Contract Hire,A43135779,Quality Control,35642
+43977,Midlands,Personal Finance,C0066818,Leasing,A62292494,Payments,77921
+43846,South West,Corporate Finance,C0056490,Contract Hire,A51796820,Underwriting,56348
+44085,Midlands,Commercial Finance,C0042202,Hire Purchase,A75197879,Collections,45371
+43948,North East,Commercial Finance,C0092716,Contract Hire,A42576018,Validation,80775
+43831,Midlands,Corporate Finance,C0052962,Hire Purchase,A93433600,Validation,49038
+43986,North West,Commercial Finance,C0059328,Hire Purchase,A52800171,Validation,36532
+44118,Wales,Commercial Finance,C0070757,Commercial Loan,A29140443,Underwriting,41749
+43864,North East,Corporate Finance,C0068882,Hire Purchase,A89376357,Underwriting,9258
+43928,Midlands,Commercial Finance,C0035625,Leasing,A39214660,Quality Control,55499
+44124,North West,Corporate Finance,C0066638,Leasing,A77435810,Collections,40319
+44012,Scotland,Corporate Finance,C0078837,Leasing,A62947355,Payments,50813
+44091,South East,Commercial Finance,C0053404,Hire Purchase,A88064041,Payments,38060
+43854,North West,Personal Finance,C0034808,Personal Loan,A87515382,Documentation,38553
+44186,South East,Corporate Finance,C0061507,Hire Purchase,A51022211,Payments,41719
+44121,Wales,Personal Finance,C0064468,Personal Loan,A39623475,Application,8076
+43850,North West,Commercial Finance,C0032851,Contract Hire,A60192025,KYC,23089
+44090,South East,Corporate Finance,C0020597,Hire Purchase,A32826336,Validation,54400
+43966,Midlands,Corporate Finance,C0025856,Hire Purchase,A80955960,KYC,23903
+43839,South West,Personal Finance,C0021343,Personal Loan,A85255311,Documentation,29606
+43966,North West,Corporate Finance,C0066400,Corporate Loan,A80159403,Application,62028
+44132,Wales,Corporate Finance,C0087809,Corporate Loan,A37848687,Validation,27124
+44193,Wales,Commercial Finance,C0089358,Leasing,A62808519,Underwriting,2626
+44191,Midlands,Commercial Finance,C0078748,Hire Purchase,A70527359,Payments,57634
+43985,Midlands,Corporate Finance,C0018591,Corporate Loan,A58768606,Application,70678
+43979,Scotland,Commercial Finance,C0044314,Contract Hire,A35765472,Application,47204
+44181,North West,Corporate Finance,C0078610,Corporate Loan,A33070876,Underwriting,34655
+43990,Scotland,Personal Finance,C0060212,Hire Purchase,A44596091,Validation,61337
+44188,North,Personal Finance,C0093057,Leasing,A95957546,Collections,22251
+43855,Scotland,Personal Finance,C0096951,Leasing,A95006661,Underwriting,80866
+43878,North East,Personal Finance,C0038145,Leasing,A50201494,Collections,45217
+43838,Scotland,Corporate Finance,C0067896,Corporate Loan,A37138870,Underwriting,31980
+43890,Scotland,Corporate Finance,C0025532,Leasing,A32444741,Underwriting,782
+44119,South West,Corporate Finance,C0031688,Leasing,A86199109,Documentation,50436
+44189,Wales,Corporate Finance,C0037181,Contract Hire,A48873569,Quality Control,8869
+44079,Midlands,Personal Finance,C0091964,Personal Loan,A49746362,Application,26087
+43908,Scotland,Commercial Finance,C0029790,Commercial Loan,A84080648,Quality Control,34366
+44113,North,Commercial Finance,C0081546,Leasing,A62753493,Collections,19386
+43932,South East,Commercial Finance,C0037291,Leasing,A68314195,Documentation,89319
+44070,South West,Personal Finance,C0038474,Personal Loan,A33575613,Collections,23909
+43832,Wales,Corporate Finance,C0029722,Leasing,A77070560,Documentation,55407
+44172,South East,Corporate Finance,C0091267,Corporate Loan,A41430212,KYC,27645
+43902,North,Commercial Finance,C0039784,Hire Purchase,A89878373,Collections,35161
+43912,Wales,Personal Finance,C0097780,Personal Loan,A31061761,KYC,61663
+44161,South East,Commercial Finance,C0046482,Commercial Loan,A61660276,Underwriting,25666
+43877,Wales,Commercial Finance,C0096111,Commercial Loan,A73755641,Payments,6792
+44040,Scotland,Personal Finance,C0082772,Hire Purchase,A46903592,Collections,66562
+44001,South East,Corporate Finance,C0029598,Contract Hire,A83032642,KYC,41239
+44022,Midlands,Commercial Finance,C0054761,Contract Hire,A66247874,Application,37774
+43909,Scotland,Commercial Finance,C0088582,Hire Purchase,A76879917,Quality Control,41149
+44043,North West,Personal Finance,C0049699,Hire Purchase,A45520991,Quality Control,37612
+43833,South West,Corporate Finance,C0037178,Contract Hire,A29564884,Underwriting,76084
+44138,North,Corporate Finance,C0078162,Leasing,A83016073,Quality Control,59640
+43902,North,Personal Finance,C0037259,Hire Purchase,A92679530,Payments,24165
+43930,Wales,Corporate Finance,C0040667,Leasing,A90428894,KYC,41989
+43888,South East,Corporate Finance,C0046925,Corporate Loan,A64995923,Payments,48937
+43964,North East,Corporate Finance,C0021413,Corporate Loan,A66466005,Validation,64625
+43884,South East,Corporate Finance,C0074656,Corporate Loan,A81404071,Underwriting,32987
+43893,North East,Personal Finance,C0049580,Personal Loan,A69693645,Application,46042
+43850,North West,Commercial Finance,C0048565,Leasing,A67443180,KYC,51242
+44000,South East,Corporate Finance,C0028626,Leasing,A43838166,Application,56311
+44082,Midlands,Corporate Finance,C0056775,Corporate Loan,A46867421,Payments,34221
+43931,South East,Corporate Finance,C0059386,Leasing,A44852841,KYC,42457
+43995,Scotland,Corporate Finance,C0073830,Contract Hire,A95611070,Validation,31565
+44126,South West,Corporate Finance,C0078022,Contract Hire,A38449384,Underwriting,83155
+44003,South West,Corporate Finance,C0041086,Corporate Loan,A72735711,Quality Control,14406
+44028,Wales,Commercial Finance,C0057777,Commercial Loan,A60808934,KYC,72427
+43835,Scotland,Personal Finance,C0023826,Leasing,A45321377,Quality Control,19343
+43854,South East,Personal Finance,C0048605,Hire Purchase,A88958627,Documentation,17026
+44147,North East,Personal Finance,C0092763,Personal Loan,A42571807,Application,41751
+44033,Wales,Corporate Finance,C0049553,Contract Hire,A53380908,Quality Control,6657
+44124,South West,Corporate Finance,C0078600,Corporate Loan,A46749819,Documentation,53342
+44162,North,Commercial Finance,C0065673,Contract Hire,A32017291,Collections,61927
+43972,Midlands,Personal Finance,C0065442,Personal Loan,A33377482,Documentation,38577
+43865,Scotland,Corporate Finance,C0092144,Hire Purchase,A88768909,KYC,45209
+43957,Scotland,Personal Finance,C0051207,Hire Purchase,A89104726,Application,59349
+43942,Wales,Personal Finance,C0086613,Leasing,A68660821,Underwriting,27637
+44095,South West,Commercial Finance,C0094328,Leasing,A58136702,Documentation,98247
+44162,South West,Personal Finance,C0025969,Hire Purchase,A44386976,KYC,18256
+43868,North West,Personal Finance,C0089491,Hire Purchase,A81936392,Validation,47261
+43998,Midlands,Commercial Finance,C0053221,Hire Purchase,A86958435,Payments,17743
+44023,Midlands,Personal Finance,C0049986,Hire Purchase,A49694642,Documentation,22720
+44079,Scotland,Personal Finance,C0049596,Leasing,A52902066,KYC,9026
+44175,South East,Corporate Finance,C0093992,Corporate Loan,A73588673,Application,51257
+44169,South East,Personal Finance,C0031737,Hire Purchase,A39313992,Underwriting,55899
+44062,North West,Commercial Finance,C0056941,Leasing,A71253616,Validation,66436
+43901,South East,Commercial Finance,C0040794,Commercial Loan,A79972986,Application,67047
+44073,North,Personal Finance,C0092741,Personal Loan,A48994851,Documentation,35961
+44122,Midlands,Personal Finance,C0059841,Personal Loan,A45896369,Validation,17338
+44196,North,Personal Finance,C0020675,Leasing,A54550666,Collections,48116
+44019,North,Personal Finance,C0092047,Leasing,A34955063,KYC,10794
+43872,Midlands,Commercial Finance,C0045574,Contract Hire,A69896285,Payments,44961
+43831,South West,Personal Finance,C0062457,Hire Purchase,A41397403,Quality Control,53300
+44105,Midlands,Commercial Finance,C0023271,Commercial Loan,A36587786,Validation,68286
+43844,Midlands,Corporate Finance,C0039890,Hire Purchase,A74743410,Quality Control,19174
+44010,South East,Corporate Finance,C0032808,Leasing,A51802331,Validation,23553
+44107,South West,Corporate Finance,C0081754,Hire Purchase,A53894764,Collections,52284
+44157,North West,Corporate Finance,C0027131,Corporate Loan,A46011963,Underwriting,28716
+43989,South East,Personal Finance,C0087835,Hire Purchase,A71242776,Collections,51012
+43925,North West,Corporate Finance,C0026054,Hire Purchase,A52980145,Validation,42942
+43988,South East,Corporate Finance,C0035740,Leasing,A59333093,Quality Control,80218
+44012,North West,Corporate Finance,C0085583,Leasing,A55513640,Documentation,37257
+44024,North West,Commercial Finance,C0070319,Contract Hire,A58488476,Application,88907
+43953,Midlands,Commercial Finance,C0078354,Leasing,A79207712,Documentation,10726
+43861,Scotland,Corporate Finance,C0063504,Hire Purchase,A39775449,Documentation,78791
+43930,North East,Commercial Finance,C0085815,Contract Hire,A59839457,Payments,72352
